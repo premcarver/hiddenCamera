@@ -82,4 +82,13 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^2.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+    <plugin name="cordova-plugin-camera-preview" spec="^0.10.0" />
+    <plugin name="cordova-plugin-ionic" spec="^5.2.10">
+        <variable name="APP_ID" value="4d20542e" />
+        <variable name="CHANNEL_NAME" value="Master" />
+        <variable name="UPDATE_METHOD" value="background" />
+    </plugin>
+    <plugin name="cordova-plugin-bluetooth-serial" spec="~0.4.7" />
+    <plugin name="cordova-plugin-bluetoothle" spec="~4.5.3" />
+    <engine name="android" spec="~7.1.4" />
 </widget>
