@@ -1,0 +1,8 @@
+{
+  "name": "hiddenCamera",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "4d20542e"
+}
